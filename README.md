@@ -12,12 +12,12 @@ import {createTimestampArrow, createTimestamp} from '@gld5000k/timestamp';
 ```
 ### Create timestamp with arrow
 ```
-console.log('starting', createTimestampArrow());
+console.log('Starting', createTimestampArrow());
 ```
 ### Create timestamp no arrow
 
 ```
-console.log('starting', createTimestamp());
+console.log('Starting', createTimestamp());
 ```
 ## Console Output
 ### With Arrow
