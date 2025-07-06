@@ -1,6 +1,6 @@
 {
   "name": "@gld/timestamp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple timestamp maker for use in e.g. CLI node.js scripts",
   "keywords": [
     "CLI",
