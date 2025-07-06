@@ -1,4 +1,5 @@
-import { createTimestamp, createTimestampArrow } from "./src/index.mjs";
+import { getTimestamp, logTimestampArrow, logTimestamp } from "./src/index.mjs";
 
-console.log("Starting", createTimestamp());
-console.log("Starting", createTimestampArrow());
+console.log("getTimestamp", getTimestamp());
+logTimestampArrow();
+logTimestamp();
