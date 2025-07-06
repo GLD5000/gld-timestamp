@@ -27,7 +27,7 @@ export function logTimestamp(message) {
  * @returns {undefined}
  */
 export function logTimestampArrow(message) {
-  for (let i = 0; i < 5; i += 1) {
+  for (let i = 0; i < 4; i += 1) {
     console.log("* * * *");
   }
   for (let i = 8; i > 0; i -= 1) {
