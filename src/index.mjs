@@ -14,7 +14,7 @@ export function getTimestamp() {
 export function logTimestamp(message) {
   const timestamp = getTimestamp();
   if (message) {
-    console.log("message:", timestamp);
+    console.log(message, timestamp);
   } else {
     console.log(timestamp);
   }
@@ -35,7 +35,7 @@ export function logTimestampArrow(message) {
   }
   const timestamp = getTimestamp();
   if (message) {
-    console.log("message:", timestamp);
+    console.log(message, timestamp);
   } else {
     console.log(timestamp);
   }
