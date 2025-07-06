@@ -1,0 +1,27 @@
+{
+  "name": "@gld/timestamp",
+  "version": "0.0.0",
+  "description": "A simple timestamp maker for use in e.g. CLI node.js scripts",
+  "keywords": [
+    "CLI",
+    "node.js",
+    "console",
+    "timestamp",
+    "debugging"
+  ],
+  "homepage": "https://github.com/GLD5000/gld-timestamp#readme",
+  "bugs": {
+    "url": "https://github.com/GLD5000/gld-timestamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLD5000/gld-timestamp.git"
+  },
+  "license": "MIT",
+  "author": "GLD5000",
+  "type": "commonjs",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "test"
+  }
+}
