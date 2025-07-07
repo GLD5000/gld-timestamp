@@ -1,6 +1,6 @@
 # [gld-timestamp](https://www.npmjs.com/package/@gld5000k/timestamp)
 
-A simple timestamp maker for use in e.g. CLI node.js scripts
+A simple timestamp maker for use in e.g. CLI Node.js scripts
 
 ## Example usage
 
